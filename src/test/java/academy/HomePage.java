@@ -26,6 +26,9 @@ public class HomePage extends Base {
 		lp.getPassword().sendKeys("1234");
 		lp.getLogin().click();
 		System.out.println(text);
+		System.out.println("Hello Sam");
+		System.out.println("Good");
+		System.out.println("By");
 		
 	}
 	
