@@ -28,7 +28,7 @@ public class validateNavigationBar extends Base {
 	
 	@AfterTest
 	public void teardown() {
-		
+		System.out.println("good job");
 		driver.close();
 	}
 	
